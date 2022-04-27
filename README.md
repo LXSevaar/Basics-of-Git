@@ -1,0 +1,1 @@
+This is the initial stages of writing a README for git.
