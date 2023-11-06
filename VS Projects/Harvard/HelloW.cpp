@@ -7,4 +7,4 @@ printf("Hello world\n");
 
 
 
-//typing ./filename here will run the program
+//typing ./filename here will run the program and hopefully commit to the right rep
